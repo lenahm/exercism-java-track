@@ -1,4 +1,4 @@
-package exercises.resistorcolortrio;
+package exercises.resistorcolors.resistorcolortrio;
 
 public enum ResistorUnit {
 

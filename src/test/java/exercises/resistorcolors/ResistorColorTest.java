@@ -1,5 +1,6 @@
-package exercises.resistorcolor;
+package exercises.resistorcolors;
 
+import exercises.resistorcolors.resistorcolor.ResistorColor;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

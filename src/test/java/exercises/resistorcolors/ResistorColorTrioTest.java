@@ -1,5 +1,6 @@
-package exercises.resistorcolortrio;
+package exercises.resistorcolors;
 
+import exercises.resistorcolors.resistorcolortrio.ResistorColorTrio;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
