@@ -2,11 +2,12 @@
 
 This overview lists the completed exercises of the Java Language Track on Exercism, including the main focus areas of each exercise.
 
-| Exercise          | Focus Areas                                                 |
-|:------------------|:------------------------------------------------------------|
-| Grains            | `BigInteger`, power calculations                            |
-| HighScores        | `Lists`, `Stream`-API                                       |
-| ResistorColor     | `Maps`, `Stream`-API                                        |
-| ResistorColorDuo  | `Maps`, `for`-Loops                                         |
-| ResistorColorTrio | `Maps`, `String`-methods, `Enums`, numeric type conversions |
-| RnaTranscription  | `StringBuilder`, `switch`-Statements                        |
+| Exercise          | Focus Areas                                                            |
+|:------------------|:-----------------------------------------------------------------------|
+| Acronym           | Constructors, `StringBuilder`, split `Strings` with Regex, `for`-loops |
+| Grains            | `BigInteger`, power calculations                                       |
+| HighScores        | `Lists`, `Stream`-API                                                  |
+| ResistorColor     | `Maps`, `Stream`-API                                                   |
+| ResistorColorDuo  | `Maps`, `for`-Loops                                                    |
+| ResistorColorTrio | `Maps`, `String`-methods, `Enums`, numeric type conversions            |
+| RnaTranscription  | `StringBuilder`, `switch`-Statements                                   |
