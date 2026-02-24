@@ -8,6 +8,7 @@ This overview lists the completed exercises of the Java Language Track on Exerci
 | DifferenceOfSquares | `for`-loops, power calculations                                        |
 | Gigasecond          | `LocalDate`, `LocalDateTime`                                           |
 | Grains              | `BigInteger`, power calculations                                       |
+| Hamming             | Constructors, `for`-loops, Exceptions                                  |
 | HighScores          | `Lists`, `Stream`-API                                                  |
 | ResistorColor       | `Maps`, `Stream`-API                                                   |
 | ResistorColorDuo    | `Maps`, `for`-Loops                                                    |
