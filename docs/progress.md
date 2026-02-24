@@ -6,6 +6,7 @@ This overview lists the completed exercises of the Java Language Track on Exerci
 |:--------------------|:-----------------------------------------------------------------------|
 | Acronym             | Constructors, `StringBuilder`, split `Strings` with Regex, `for`-loops |
 | DifferenceOfSquares | `for`-loops, power calculations                                        |
+| Gigasecond          | `LocalDate`, `LocalDateTime`                                           |
 | Grains              | `BigInteger`, power calculations                                       |
 | HighScores          | `Lists`, `Stream`-API                                                  |
 | ResistorColor       | `Maps`, `Stream`-API                                                   |
