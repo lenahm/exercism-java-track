@@ -4,13 +4,14 @@ This overview lists the completed exercises of the Java Language Track on Exerci
 
 | Exercise            | Focus Areas                                                            |
 |:--------------------|:-----------------------------------------------------------------------|
-| Acronym             | Constructors, `StringBuilder`, split `Strings` with Regex, `for`-loops |
+| Acronym             | Constructors, `StringBuilder`, split `Strings` with regex, `for`-loops |
 | DifferenceOfSquares | `for`-loops, power calculations                                        |
 | Gigasecond          | `LocalDate`, `LocalDateTime`                                           |
 | Grains              | `BigInteger`, power calculations                                       |
-| Hamming             | Constructors, `for`-loops, Exceptions                                  |
+| Hamming             | Constructors, `for`-loops, exceptions                                  |
 | HighScores          | `Lists`, `Stream`-API                                                  |
+| MicroBlog           | Text encodings, inbuilt-`String`-methods                               |
 | ResistorColor       | `Maps`, `Stream`-API                                                   |
-| ResistorColorDuo    | `Maps`, `for`-Loops                                                    |
+| ResistorColorDuo    | `Maps`, `for`-loops                                                    |
 | ResistorColorTrio   | `Maps`, `String`-methods, `Enums`, numeric type conversions            |
-| RnaTranscription    | `StringBuilder`, `switch`-Statements                                   |
+| RnaTranscription    | `StringBuilder`, `switch`-statements                                   |
