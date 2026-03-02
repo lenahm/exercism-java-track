@@ -2,16 +2,17 @@
 
 This overview lists the completed exercises of the Java Language Track on Exercism, including the main focus areas of each exercise.
 
-| Exercise            | Focus Areas                                                            |
-|:--------------------|:-----------------------------------------------------------------------|
-| Acronym             | Constructors, `StringBuilder`, split `Strings` with regex, `for`-loops |
-| DifferenceOfSquares | `for`-loops, power calculations                                        |
-| Gigasecond          | `LocalDate`, `LocalDateTime`                                           |
-| Grains              | `BigInteger`, power calculations                                       |
-| Hamming             | Constructors, `for`-loops, exceptions                                  |
-| HighScores          | `Lists`, `Stream`-API                                                  |
-| MicroBlog           | Text encodings, inbuilt-`String`-methods                               |
-| ResistorColor       | `Maps`, `Stream`-API                                                   |
-| ResistorColorDuo    | `Maps`, `for`-loops                                                    |
-| ResistorColorTrio   | `Maps`, `String`-methods, `Enums`, numeric type conversions            |
-| RnaTranscription    | `StringBuilder`, `switch`-statements                                   |
+| Exercise            | Focus Areas                                                            |Difficulty|
+|:--------------------|:-----------------------------------------------------------------------|----------|
+| Acronym             | Constructors, `StringBuilder`, split `Strings` with regex, `for`-loops |easy|
+| DifferenceOfSquares | `for`-loops, power calculations                                        |easy|
+| Gigasecond          | `LocalDate`, `LocalDateTime`                                           |easy|
+| Grains              | `BigInteger`, power calculations                                       |easy|
+| Hamming             | Constructors, `for`-loops, exceptions                                  |easy|
+| HighScores          | `Lists`, `Stream`-API                                                  |easy|
+| MicroBlog           | Text encodings, inbuilt-`String`-methods                               |easy|
+| PangramChecker      | `Sets`, `char`-Arrays, `for`-loops                                     |easy|
+| ResistorColor       | `Maps`, `Stream`-API                                                   |easy|
+| ResistorColorDuo    | `Maps`, `for`-loops                                                    |easy|
+| ResistorColorTrio   | `Maps`, `String`-methods, `Enums`, numeric type conversions            |easy|
+| RnaTranscription    | `StringBuilder`, `switch`-statements                                   |easy|
