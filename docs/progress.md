@@ -6,6 +6,7 @@ This overview lists the completed exercises of the Java Language Track on Exerci
 |:--------------------|:-----------------------------------------------------------------------|------------|
 | Acronym             | Constructors, `StringBuilder`, split `Strings` with regex, `for`-loops | easy       |
 | DifferenceOfSquares | `for`-loops, power calculations                                        | easy       |
+| EliudsEggs          | `Stream`-API, inbuilt-`String`-methods                                 | easy       |
 | Gigasecond          | `LocalDate`, `LocalDateTime`                                           | easy       |
 | Grains              | `BigInteger`, power calculations                                       | easy       |
 | Hamming             | Constructors, `for`-loops, exceptions                                  | easy       |
