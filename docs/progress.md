@@ -13,7 +13,8 @@ This overview lists the completed exercises of the Java Language Track on Exerci
 | HighScores          | `Lists`, `Stream`-API                                                  | easy       |
 | MicroBlog           | Text encodings, inbuilt-`String`-methods                               | easy       |
 | PangramChecker      | `Sets`, `char`-Arrays, `for`-loops                                     | easy       |
-| Perfect Numbers     | Constructors, `Enums`, `for`-loops                                     | easy       |
+| PerfectNumbers      | Constructors, `Enums`, `for`-loops                                     | easy       |
+| ProteinTranslator   | `Lists`, building Substrings, `switch`-statements                      | easy       |
 | ResistorColor       | `Maps`, `Stream`-API                                                   | easy       |
 | ResistorColorDuo    | `Maps`, `for`-loops                                                    | easy       |
 | ResistorColorTrio   | `Maps`, `String`-methods, `Enums`, numeric type conversions            | easy       |
